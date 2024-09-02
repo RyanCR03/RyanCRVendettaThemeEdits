@@ -44,9 +44,9 @@
             "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#86b4ea",
-            "#86b4ea",
-            "#86b4ea"
+            "#63ce4e",
+            "#63ce4e",
+            "#63ce4e"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
@@ -104,9 +104,9 @@
             "#575a68"			
         ],
         "CHANNEL_ICON": [
-            "#2780E64d",
-            "#2780E64d",
-            "#2780E64d"
+            "#63ce4e4d",
+            "#63ce4e4d",
+            "#63ce4e4d"
         ],
         "CHAT_BACKGROUND": [
             "#00000099",
@@ -294,9 +294,9 @@
             "#3f414c"
         ],
         "INTERACTIVE_NORMAL": [
-            "#81b6ef",
-            "#81b6ef",
-            "#81b6ef"
+            "#63ce4e",
+            "#63ce4e",
+            "#63ce4e"
         ],
         "LOGO_PRIMARY": [
             "#83a598",
