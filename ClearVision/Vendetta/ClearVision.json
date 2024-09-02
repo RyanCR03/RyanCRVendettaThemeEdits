@@ -209,9 +209,9 @@
             "#dcddde"
         ],
         "HEADER_SECONDARY": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
+            "#63ce4e",
+            "#63ce4e",
+            "#63ce4e"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#0a2848",
@@ -279,9 +279,9 @@
             "#102b47"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
+            "#63ce4e",
+            "#63ce4e",
+            "#63ce4e"
         ],
         "INTERACTIVE_HOVER": [
             "#061428",
@@ -369,19 +369,19 @@
             "#fb4934"
         ],
         "TEXT_LINK": [
-            "#2780E6",
-            "#2780E6",
-            "#2780E6"
+            "#63ce4e",
+            "#63ce4e",
+            "#63ce4e"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#dcddde",
-            "#0a2848",
+            "#1f1f1f",
             "#dcddde"
         ],
         "TEXT_MUTED": [
-            "#2678d6",
-            "#2678d6",
-            "#2678d6"
+            "#63ce4e",
+            "#63ce4e",
+            "#63ce4e"
         ],
         "TEXT_NORMAL": [
             "#dcddde",
@@ -443,7 +443,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142038067209850980/0CI9G4RK.jpg"
+        "url": "https://raw.githubusercontent.com/RyanCR03/RyanCR03/main/96123.jpg"
     },
     "plus": {
         "version": 0,
